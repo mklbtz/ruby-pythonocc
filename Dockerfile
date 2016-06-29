@@ -1,4 +1,4 @@
-FROM mklbtz/ruby-oce:latest
+FROM mklbtz/ruby-oce
 MAINTAINER Michael Bates <mklbtz@gmail.com>
 
 RUN apt-get update && \
